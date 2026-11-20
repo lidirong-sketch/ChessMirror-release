@@ -1,0 +1,14 @@
+{
+  "app": "ChessMirror_SinglePhone",
+  "displayName": "棋影",
+  "packageName": "io.github.jqssun.airplay",
+  "versionCode": 36,
+  "versionName": "0.0.36",
+  "abi": "arm64-v8a",
+  "signing": "debug",
+  "tag": "v0.0.36",
+  "apkAsset": "ChessMirror_SinglePhone_v0.0.36.apk",
+  "size": 115586758,
+  "md5": "35dc9ee2be6bcb79bc27df76b94e3269",
+  "notes": "单手机方案首版：AirPlay 接收端与棋影自动化合成一个 App。"
+}
